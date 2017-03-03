@@ -16,4 +16,8 @@ Summaries of Deep Learning Papers I found interesting
 
 * Generative Adversarial Networks [[original]](https://arxiv.org/pdf/1406.2661.pdf) [[summary]](https://github.com/ashutoshkrjha/deeplearning-papernotes/blob/master/Generative_Adversarial_Networks.pdf)
 
-	- Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. In Advances in Neural Information Processing Systems, 2014
+	- Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. In Advances in Neural Information Processing Systems(NIPS), 2014
+
+* Improved Techniques for Training GANs [[original]](https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf) [[summary]](https://github.com/ashutoshkrjha/deeplearning-papernotes/blob/master/Improved_Tech_GANs.pdf)
+
+	- Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen. In Advances in Neural Information Processing Systems(NIPS), 2016
