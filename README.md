@@ -6,11 +6,15 @@ Summaries of Deep Learning Papers I found interesting
 ### Reinforcement Learning
 * Asynchronous methods for deep reinforcement learning [[original]](http://www.jmlr.org/proceedings/papers/v48/mniha16.pdf) [[summary]](https://github.com/ashutoshkrjha/deeplearning-papernotes/blob/master/Asynch_Methods_DRL.pdf)
 
-	- Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy P Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu . In International Conference on Machine Learning, 2016
+	- Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy P Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu . In International Conference on Machine Learning(ICML), 2016
 
 * Neural Architecture Search with Reinforcement Learning [[original]](https://arxiv.org/pdf/1611.01578.pdf) [[summary]](https://github.com/ashutoshkrjha/deeplearning-papernotes/blob/master/Neural_Arch_Search.pdf)
 
-	- Barret Zoph, Quoc V. Le. In International Conference on Learning Representations, 2017
+	- Barret Zoph, Quoc V. Le. In International Conference on Learning Representations(ICLR), 2017
+
+* Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning[[original]](https://arxiv.org/pdf/1511.06342.pdf)[[summary]](https://github.com/ashutoshkrjha/deeplearning-papernotes/blob/master/Actor_Mimic.pdf)
+
+	- Emilio Parisotto, Jimmy Lei Ba, Ruslan Salakhutdinov. In International Conference on Learning Representations(ICLR), 2017
 
 ### Deep Learning
 
