@@ -12,9 +12,9 @@ Summaries of Deep Learning Papers I found interesting
 
 	- Barret Zoph, Quoc V. Le. In International Conference on Learning Representations(ICLR), 2017
 
-* Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning[[original]](https://arxiv.org/pdf/1511.06342.pdf)[[summary]](https://github.com/ashutoshkrjha/deeplearning-papernotes/blob/master/Actor_Mimic.pdf)
+* Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning[[original]](https://arxiv.org/pdf/1511.06342.pdf) [[summary]](https://github.com/ashutoshkrjha/deeplearning-papernotes/blob/master/Actor_Mimic.pdf)
 
-	- Emilio Parisotto, Jimmy Lei Ba, Ruslan Salakhutdinov. In International Conference on Learning Representations(ICLR), 2017
+	- Emilio Parisotto, Jimmy Lei Ba, Ruslan Salakhutdinov. In International Conference on Learning Representations(ICLR), 2016
 
 ### Deep Learning
 
@@ -25,3 +25,7 @@ Summaries of Deep Learning Papers I found interesting
 * Improved Techniques for Training GANs [[original]](https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf) [[summary]](https://github.com/ashutoshkrjha/deeplearning-papernotes/blob/master/Improved_Tech_GANs.pdf)
 
 	- Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen. In Advances in Neural Information Processing Systems(NIPS), 2016
+
+* Understanding Deep Learning Requires Rethinking Generalization [[original]](https://arxiv.org/pdf/1611.03530.pdf) [[summary]](https://github.com/ashutoshkrjha/deeplearning-papernotes/blob/master/Understanding_Deep_Learning_Requires_Rethinking_Generalization.pdf)
+
+	- Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, and Oriol Vinyals. In International Conference on Learning Representations(ICLR), 2017
