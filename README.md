@@ -4,6 +4,9 @@ Summaries of Deep Learning Papers I found interesting
 ## Papers covered:
 
 ### Reinforcement Learning
+
+* \#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning [[original]](https://arxiv.org/pdf/1611.04717.pdf) [[summary]](https://github.com/ashutoshkrjha/deeplearning-papernotes/blob/master/Count_Based_Exploration.pdf)
+
 * Asynchronous methods for deep reinforcement learning [[original]](http://www.jmlr.org/proceedings/papers/v48/mniha16.pdf) [[summary]](https://github.com/ashutoshkrjha/deeplearning-papernotes/blob/master/Asynch_Methods_DRL.pdf)
 
 	- Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy P Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu . In International Conference on Machine Learning(ICML), 2016
