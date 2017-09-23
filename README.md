@@ -6,6 +6,7 @@ Summaries of Deep Learning Papers I found interesting
 ### Reinforcement Learning
 
 * \#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning [[original]](https://arxiv.org/pdf/1611.04717.pdf) [[summary]](https://github.com/ashutoshkrjha/deeplearning-papernotes/blob/master/Count_Based_Exploration.pdf)
+  - Haoran Tang, Rein Houthooft, Davis Foote, Adam Stooke, Xi Chen, Yan Duan, John Schulman, Filip De Turck, Pieter Abbeel. In Advances in Neural Information Processing Systems(NIPS), 2017
 
 * Asynchronous methods for deep reinforcement learning [[original]](http://www.jmlr.org/proceedings/papers/v48/mniha16.pdf) [[summary]](https://github.com/ashutoshkrjha/deeplearning-papernotes/blob/master/Asynch_Methods_DRL.pdf)
 
