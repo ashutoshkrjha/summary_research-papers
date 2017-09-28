@@ -4,6 +4,8 @@ Summaries of Deep Learning and Reinforcement Learning Papers I found interesting
 ## Papers covered:
 
 ### Reinforcement Learning
+* Curiosity-driven Exploration by Self-supervised Prediction[[original]](https://arxiv.org/pdf/1705.05363.pdf) [[summary]](https://github.com/ashutoshkrjha/deeplearning-papernotes/blob/master/Curiosity_Driven_Exploration.pdf)
+	- Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell. In International Conference on Machine Learning(ICML), 2017
 
 * \#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning [[original]](https://arxiv.org/pdf/1611.04717.pdf) [[summary]](https://github.com/ashutoshkrjha/deeplearning-papernotes/blob/master/Count_Based_Exploration.pdf)
   - Haoran Tang, Rein Houthooft, Davis Foote, Adam Stooke, Xi Chen, Yan Duan, John Schulman, Filip De Turck, Pieter Abbeel. In Advances in Neural Information Processing Systems(NIPS), 2017
