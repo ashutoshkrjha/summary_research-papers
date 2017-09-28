@@ -1,5 +1,5 @@
-# deeplearning-papernotes
-Summaries of Deep Learning Papers I found interesting
+# summary_research-papers
+Summaries of Deep Learning and Reinforcement Learning Papers I found interesting.
 
 ## Papers covered:
 
