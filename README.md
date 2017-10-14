@@ -4,6 +4,9 @@ Summaries of Deep Learning and Reinforcement Learning Papers I found interesting
 ## Papers covered:
 
 ### Reinforcement Learning
+* A Distributional Perspective on Reinforcement Learning[[original]](https://arxiv.org/pdf/1707.06887.pdf) [[summary]](https://github.com/ashutoshkrjha/deeplearning-papernotes/blob/master/Distributional_Perspective.pdf)
+  -Marc Bellemare, Will Dabney, Remi Munos. In International Conference on Machine Learning(ICML), 2017.
+
 * Curiosity-driven Exploration by Self-supervised Prediction[[original]](https://arxiv.org/pdf/1705.05363.pdf) [[summary]](https://github.com/ashutoshkrjha/deeplearning-papernotes/blob/master/Curiosity_Driven_Exploration.pdf)
 	- Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell. In International Conference on Machine Learning(ICML), 2017
 
