@@ -4,8 +4,12 @@ Summaries of Deep Learning and Reinforcement Learning Papers I found interesting
 ## Papers covered:
 
 ### Reinforcement Learning
+
+* Learning to Communicate with Deep Multi-Agent Reinforcement Learning[[original]](https://arxiv.org/pdf/1605.06676.pdf) [[summary]](https://github.com/ashutoshkrjha/deeplearning-papernotes/blob/master/Learning_to_communicate.pdf)
+  - Jakob N. Foerster, Yannis M. Assael, Nando de Freitas, Shimon Whiteson. In Advances in Neural Information Processing Systems(NIPS), 2016
+
 * A Distributional Perspective on Reinforcement Learning[[original]](https://arxiv.org/pdf/1707.06887.pdf) [[summary]](https://github.com/ashutoshkrjha/deeplearning-papernotes/blob/master/Distributional_Perspective.pdf)
-  - Marc Bellemare, Will Dabney, Remi Munos. In International Conference on Machine Learning(ICML), 2017.
+  - Marc Bellemare, Will Dabney, Remi Munos. In International Conference on Machine Learning(ICML), 2017
 
 * Curiosity-driven Exploration by Self-supervised Prediction[[original]](https://arxiv.org/pdf/1705.05363.pdf) [[summary]](https://github.com/ashutoshkrjha/deeplearning-papernotes/blob/master/Curiosity_Driven_Exploration.pdf)
 	- Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell. In International Conference on Machine Learning(ICML), 2017
